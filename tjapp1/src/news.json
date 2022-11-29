@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Rishi Sunak Sacks Several Ministers, Jeremy Hunt To Stay Finance Minister - NDTV",
+            "description": "New UK Prime Minister Rishi Sunak started delivering on his promise that \"work would begin immediately\" within an hour of his meeting with King Charles II.",
+            "url": "https://www.ndtv.com/world-news/rishi-sunak-asks-several-ministers-to-leave-after-taking-charge-as-uk-pm-3461539",
+            "urlToImage": "https://c.ndtvimg.com/2022-10/rob9tgfo_rishi-sunak-650_650x400_25_October_22.jpg",
+            "publishedAt": "2022-10-25T14:32:23Z",
+            "content": "Rishi Sunak said \"economic stability and competence\" will be at the heart of his government's agenda.\r\nNew UK Prime Minister Rishi Sunak started delivering on his \"work would begin immediately\" promi… [+2149 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Ukraine alleges Russian dirty bomb deception at nuke plant - The Associated Press",
+            "description": "KYIV, Ukraine (AP) — Ukraine’s nuclear energy operator said Tuesday that Russian forces were performing secret work at Europe's largest nuclear power plant, activity that could shed light on Russia’s claims that Kyiv’s forces are preparing a “provocation” inv…",
+            "url": "https://apnews.com/article/russia-ukraine-kyiv-sergei-shoigu-climate-and-environment-government-politics-6ea801e22edee2d25c1e24d613f18e4a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f1ea36f6180e4d7a880c236b667fdd31/3000.jpeg",
+            "publishedAt": "2022-10-25T14:25:42Z",
+            "content": "KYIV, Ukraine (AP) Ukraines nuclear energy operator said Tuesday that Russian forces were performing secret work at Europes largest nuclear power plant, activity that could shed light on Russias clai… [+2706 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jaclyn Peiser, Jacob Bogage",
+            "title": "Adidas ends massive deal with Kanye West after antisemitism controversy - The Washington Post",
+            "description": "Adidas has cut ties with Ye, the musician and fashion designer formerly known as Kanye West, marking the end of a partnership that made the company billions.",
+            "url": "https://www.washingtonpost.com/business/2022/10/25/adidas-kanye-west-partnership-ends/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/27VEUDOOJVSQDM5QCIILYMEVKY.jpg&w=1440",
+            "publishedAt": "2022-10-25T13:55:00Z",
+            "content": "Comment on this story\r\nAdidas has cut ties with Ye, the musician and fashion designer formerly known as Kanye West, marking the end of a partnership that made the company billions but was soured by t… [+5108 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kayla Jimenez, USA TODAY",
+            "title": "NAEP report card 2022: America's test scores dropped in reading, math - USA TODAY",
+            "description": "America's test scores dropped in reading and math, new NAEP report card data shows. Experts attribute the drop to learning loss from COVID-19.",
+            "url": "https://www.usatoday.com/story/news/2022/10/24/naep-report-card-test-scores-reading-math/10552407002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/06/30/USAT/133d6dd0-ccaf-4c90-ba4f-46de7e7b1eb0-Chicago_2021004-05_Nathaniel_MaxHerman_003.JPG?auto=webp&crop=4799,2700,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-10-25T13:47:03Z",
+            "content": "As educators, community members and parents work to help kids catch up from pandemic-related learning loss through accelerated learning and high dosage tutoring, national test scores published Monday… [+10337 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Karl de Vries",
+            "title": "Ash Carter, former defense secretary under Obama, dies at 68 - CNN",
+            "description": "Ashton Carter, who served as President Barack Obama's final defense secretary, has died, his family said. He was 68.",
+            "url": "https://www.cnn.com/2022/10/25/politics/ashton-carter-dies/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210910153517-01-ash-carter-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-25T13:37:00Z",
+            "content": "Ashton Carter, who served as President Barack Obamas final defense secretary, has died, his family said. He was 68.\r\nCarter, who led the Defense Department from February 2015 to January 2017, suffere… [+200 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France",
+            "title": "Leslie Jordan loved Instagram and it loved him right back - CNN",
+            "description": "Scrolling through Leslie Jordan's Instagram account could make you smile, laugh, and, now, cry.",
+            "url": "https://www.cnn.com/2022/10/25/entertainment/leslie-jordan-instagram/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221025082750-leslie-jordan-instagram.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-25T13:28:00Z",
+            "content": "Scrolling through Leslie Jordans Instagram account could make you smile, laugh, and, now, cry.\r\nFollowing the death of the comedic actor Monday at the age of 67, many have been flocking to his verifi… [+2073 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Monica Chin",
+            "title": "Microsoft Surface Pro 9 (SQ3) review: Windows on Arm is not ready - The Verge",
+            "description": "Microsoft’s new Surface Pro 9 comes with both Intel and Qualcomm options. It supports 5G, an advanced webcam, and great design — but also a software experience that’s not quite up to snuff.",
+            "url": "https://www.theverge.com/23421326/microsoft-surface-pro-9-arm-qualcomm-sq3-review",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Zpv8OyRV2OqDKYSo_Y81W6oVYm0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24132697/226336_Surface_Pro_9_AKrales_0246.jpg",
+            "publishedAt": "2022-10-25T13:00:00Z",
+            "content": "Oct 25, 2022, 1:00 PM UTC|\r\nIf you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement.\r\nVideo calling.\r\nAfter several days of using the Qualcomm-powered Surface… [+15468 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Brittney Griner's nine-year prison sentence in Russia upheld - Fox News",
+            "description": "WNBA superstar Brittney Griner's nine-year prison sentence was upheld in Russia on Tuesday. She was convicted of drug possession in August.",
+            "url": "https://www.foxnews.com/sports/brittney-griners-nine-year-prison-sentence-russia-upheld",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Brittney-Griner.jpg",
+            "publishedAt": "2022-10-25T12:52:23Z",
+            "content": "A Russian court rejected Brittney Griners appeal of her nine-year prison sentence for drug possession on Tuesday.\r\nThe court ruled to uphold the sentence handed down to the WNBA superstar. However, i… [+4139 chars]"
+        }
+    ]
+}
